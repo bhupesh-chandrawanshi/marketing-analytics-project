@@ -18,8 +18,8 @@ The primary goal for this campaign is to create awareness about our brand and ed
 
 ## Reference :
 
-MAP ( Marketing Activation Plan ) is framework borrowed from Stephen Tracy's Udemy Course
-Channel Selection Framework is also borrowed from Stephen Tracy's Udemy Course
+- MAP ( Marketing Activation Plan ) is framework borrowed from Stephen Tracy's Udemy Course
+- Channel Selection Framework is also borrowed from Stephen Tracy's Udemy Course
 
 Course Link : https://www.udemy.com/course/marketing-analytics-masterclass/
 Blog Link : https://analythical.com/
