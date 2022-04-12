@@ -38,4 +38,4 @@ Here we'll go through the historical data of our previous campaign and figure ou
 Most of the segments of my projects are inspired by the Udemy Course taught by <a href="https://www.linkedin.com/in/tracystephen/">Stephen Tracey</a>. Please join the course if you’re interested to know more about Marketing Analytics.
 
 - Course : ![Marketing Analytics Mastery: From Strategy to Application]('https://www.udemy.com/course/marketing-analytics-masterclass/')
-- Course Completion Certification : ![Link]('https://www.udemy.com/certificate/UC-ea5e475d-0dbb-4f4d-b7af-bcddf45ae1c7/')
+- Course Completion Certification : <a href='https://www.udemy.com/certificate/UC-ea5e475d-0dbb-4f4d-b7af-bcddf45ae1c7/'>Link<a/>
