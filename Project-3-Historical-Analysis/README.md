@@ -11,14 +11,15 @@ In this project I've done EDA with the help of Python to gather insight regardin
 ## Objectives :
 
 - PPC Analysis
-- Customer Analysis
+- Lead To Customer Analysis
 - Survey Analysis
 
 ## Files :
 
--  Metrics Selection & KPI Summary : Consist a small presentation about Metrics Selection Framwork and KPI Table Formation.
--  Fittlyf-KPI-Table : Excel file with all the tables needed to create KPI Summary.
--  Fittlyf-KPI-Table-PDF : Excel file in PDF format
+-  Historical Analysis & Report Formation : Consist a small presentation about Historical Analysis and Reporting.
+-  Historical Analysis Python : Python file with Exploratory Data Analysis and Insights
+-  Historical-Analysis-Data : Data Sheets within Single Excel File
+-  Historical-Analysis-Solutions : Excel Sheet with datasets and Analysis ( PPC Analysis, Customer Survey Analysis, Lead to Customer Data Analysis )
 
 ## Reference :
 
