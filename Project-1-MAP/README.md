@@ -11,7 +11,7 @@ The primary goal for this campaign is to create awareness about our brand and ed
 
 ## Campaign Strategy Files
 
--  Campaign Journey Mapping : Consist a small presentation about MAP (Market Activation Plan) or Consumer Journey Mapping.
+-  Campaign Journey Mapping : Consist a small presentation about MAP (Market Activation Plan) a format of Consumer Journey Mapping.
 -  Fittlyf-MAP : Excel file with all the tables needed to create Journey Map.
 -  Fittlyf-MAP-PDF : Excel file in PDF format
 -  MIRO LINK : https://miro.com/app/board/uXjVOFeOIe0=/?share_link_id=505557575404
